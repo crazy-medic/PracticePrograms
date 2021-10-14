@@ -1,0 +1,14 @@
+C:\Users\vinee\source\repos\PracticeProblem\bin\Debug\netcoreapp3.1\PracticeProblem.exe
+C:\Users\vinee\source\repos\PracticeProblem\bin\Debug\netcoreapp3.1\PracticeProblem.deps.json
+C:\Users\vinee\source\repos\PracticeProblem\bin\Debug\netcoreapp3.1\PracticeProblem.runtimeconfig.json
+C:\Users\vinee\source\repos\PracticeProblem\bin\Debug\netcoreapp3.1\PracticeProblem.runtimeconfig.dev.json
+C:\Users\vinee\source\repos\PracticeProblem\bin\Debug\netcoreapp3.1\PracticeProblem.dll
+C:\Users\vinee\source\repos\PracticeProblem\bin\Debug\netcoreapp3.1\PracticeProblem.pdb
+C:\Users\vinee\source\repos\PracticeProblem\obj\Debug\netcoreapp3.1\PracticeProblem.csproj.AssemblyReference.cache
+C:\Users\vinee\source\repos\PracticeProblem\obj\Debug\netcoreapp3.1\PracticeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinee\source\repos\PracticeProblem\obj\Debug\netcoreapp3.1\PracticeProblem.AssemblyInfoInputs.cache
+C:\Users\vinee\source\repos\PracticeProblem\obj\Debug\netcoreapp3.1\PracticeProblem.AssemblyInfo.cs
+C:\Users\vinee\source\repos\PracticeProblem\obj\Debug\netcoreapp3.1\PracticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\vinee\source\repos\PracticeProblem\obj\Debug\netcoreapp3.1\PracticeProblem.dll
+C:\Users\vinee\source\repos\PracticeProblem\obj\Debug\netcoreapp3.1\PracticeProblem.pdb
+C:\Users\vinee\source\repos\PracticeProblem\obj\Debug\netcoreapp3.1\PracticeProblem.genruntimeconfig.cache
